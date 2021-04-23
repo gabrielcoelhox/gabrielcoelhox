@@ -1,12 +1,12 @@
 ## I'm Gabriel Coelho, Civil engineer and Developer Student
 
 - 💻 I'm currently dedicating myself to learning the most about programming
+- <img width="22px" src="https://i.ibb.co/WvyBdTt/kisspng-discord-logo-computer-servers-download-5b305fe98e08f7-2183982315298969375818.png"/> **Discord:** coelho#6003
 
 ### Connect with me:
 
 [<img align="left" alt="gabrielcoelhox | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gabrielcoelhox | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="gabrielcoelhox | Instagram" width="36px" src="https://i.ibb.co/WvyBdTt/kisspng-discord-logo-computer-servers-download-5b305fe98e08f7-2183982315298969375818.png" />][instagram]
 
 <br />
 
