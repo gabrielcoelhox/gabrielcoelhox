@@ -1,6 +1,7 @@
 ## I'm Gabriel Coelho, Civil engineer and Developer Student
 
 - 💻 I'm currently dedicating myself to learning the most about programming
+- Studying Analysis and Systems Development
 - <img width="20px" src="https://i.ibb.co/WvyBdTt/kisspng-discord-logo-computer-servers-download-5b305fe98e08f7-2183982315298969375818.png"/> **coelho#6003**
 
 ### Connect with me:
