@@ -1,13 +1,11 @@
-# Hi there 👋
-
+# <p align="center">Hi there 👋</p>
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielcoelhox-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcoelhox/)](https://www.linkedin.com/in/gabrielcoelhox/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriel.coelhox@gmail.com)](mailto:gabriel.coelhox@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielcoelhox/)](https://www.instagram.com/gabrielcoelhox/)
 
+
 ## About Me 
 I'm a Civil engineer and Developer Student 👨‍💻 who is passionate about tech. 
-
-
 
 - 🎯 Currently dedicating myself to learning the most about programming
 - 👨‍🎓 Coursing Technologist in Systems Analysis and Development
@@ -18,7 +16,6 @@ I'm a Civil engineer and Developer Student 👨‍💻 who is passionate about t
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhox&layout=compact&theme=react"/>
-<p>Perfectly balanced</p>
 </div>
 
 [instagram]: https://instagram.com/gabrielcoelhox
