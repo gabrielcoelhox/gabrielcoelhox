@@ -12,16 +12,7 @@ I'm a Civil engineer and Developer Student 👨‍💻 who is passionate about t
 - 🌱 I’m currently learning **Angular** and **PHP**
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
 - <img width="20px" src="https://i.ibb.co/WvyBdTt/kisspng-discord-logo-computer-servers-download-5b305fe98e08f7-2183982315298969375818.png"/> Discord: **coelho#6003**
-- ⚡ Techs:
-<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
-<img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
-<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
-<img align="left" alt="Bootstrap" width="25px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"/>
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
-</br>
-</br>
+- ⚡ Techs: <br> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhox&layout=compact&theme=react" />
 
 [instagram]: https://instagram.com/gabrielcoelhox
