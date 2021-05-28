@@ -12,7 +12,7 @@ I'm a Civil engineer and Developer Student 👨‍💻 who is passionate about t
 - 🌱 I’m currently learning **Angular** and **PHP**
 - 💬 Confortable with: **Brazilian Portuguese** and **English**
 - <img width="20px" src="https://i.ibb.co/WvyBdTt/kisspng-discord-logo-computer-servers-download-5b305fe98e08f7-2183982315298969375818.png"/> Discord: **coelho#6003**
-- ⚡ Techs: </br>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ⚡ Techs: </br>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhox&layout=compact&theme=react"/>
 
