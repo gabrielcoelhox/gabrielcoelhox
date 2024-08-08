@@ -5,19 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/gabrielcoelhox">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhox&layout=compact&theme=react"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielcoelhox&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Quarkus" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/quarkus.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vue.Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/vuedotjs.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhox&layout=compact&theme=react"/></a>
+</br>  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabrielcoelhox&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>  
 </div>
 
 ##
